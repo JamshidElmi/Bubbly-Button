@@ -1,13 +1,15 @@
+ /*
+    Project: Bubbly-Button
+    Created: Thursday, 01 January 2022
+    Author: Jamshid Elmi 
+    Tutorial: https://youtu.be/jkaqJVtjb7I
+  */
+
 body {
     text-align: center;
     background-color: #242424;
   }
-  /*
-  primary color: rgb(3, 219, 32);
-  secondary color: rgba(3, 219, 32, 0.2);
-  dark color: rgba(3, 219, 32, 0.2)
-  */
-  
+ 
   .green-button {
     padding: 1em 2em;
     margin-top: 150px;
